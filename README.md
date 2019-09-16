@@ -1,2 +1,2 @@
-# Reliant.bat
+# Reliant
 Batch file menu
